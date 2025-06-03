@@ -1,5 +1,5 @@
 @author Efe Görkem Akkanat
-GAME PREVIEW VIDEO : https://youtu.be/W7pjWoaL5ms
+Game preview and code review video: https://youtu.be/W7pjWoaL5ms
 
 ->Bomberman Remeastered is remeastered version of classical Bomberman games with several gameplay updates and graphical improvements. 
 
